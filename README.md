@@ -5,3 +5,4 @@ Solutions to consider for creating cloudwatch dashboard solution:
 2. https://www.pulumi.com/docs/guides/crosswalk/aws/cloudwatch/
 3. https://tidycloudaws.com/how-to-become-an-infrastructure-as-code-ninja-using-aws-cdk-part-8/
 4. https://www.youtube.com/watch?v=WC9ctwQ94bs
+5. https://github.com/rwmotivation/cloudwatchcode/blob/main/suggestionfrompulumitv.ts
